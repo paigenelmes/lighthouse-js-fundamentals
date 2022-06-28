@@ -4,3 +4,5 @@ function findAverage(x, y) {
 }
 
 var avg = findAverage(5, 9);
+
+console.log(avg);
