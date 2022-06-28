@@ -3,4 +3,6 @@ function findAverage(x, y) {
   return answer;
 }
 
-var avg = findAverage(5, 9);
+var avg = findAverage(7, 11);
+
+console.log(avg);
