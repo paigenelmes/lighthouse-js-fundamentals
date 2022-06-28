@@ -1,8 +1,6 @@
-function findAverage(x, y) {
-  var answer = (x + y) / 2;
-  return answer;
+function sayHi(name) {
+  var greeting = "Hello";
+  console.log(greeting + " " + name);
 }
 
-var avg = findAverage(5, 9);
-
-console.log(avg);
+sayHi("Julia");
