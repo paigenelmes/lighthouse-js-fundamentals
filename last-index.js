@@ -3,6 +3,5 @@ function lastIndexOf(array, num) {
     if (array[i] === num) {
       return i;
     } 
-    
-    } return -1;
-  } 
+  } return -1;
+} 
